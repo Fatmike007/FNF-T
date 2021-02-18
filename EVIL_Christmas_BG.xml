@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="EVIL_Christmas_BG.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ceiling Window0000" x="0" y="0" width="2323" height="676"/>
+	<SubTexture name="Ceiling Window0001" x="0" y="0" width="2323" height="676"/>
+	<SubTexture name="Ceiling Window0002" x="0" y="0" width="2323" height="676"/>
+	<SubTexture name="Ceiling Window0003" x="2323" y="0" width="2323" height="676"/>
+	<SubTexture name="Ceiling Window0004" x="2323" y="0" width="2323" height="676"/>
+	<SubTexture name="Ceiling Window0005" x="0" y="0" width="2323" height="676"/>
+	<SubTexture name="Ceiling Window0006" x="0" y="0" width="2323" height="676"/>
+	<SubTexture name="Ceiling Window0007" x="0" y="0" width="2323" height="676"/>
+	<SubTexture name="Ceiling Window0008" x="0" y="0" width="2323" height="676"/>
+	<SubTexture name="Ceiling Window0009" x="0" y="0" width="2323" height="676"/>
+	<SubTexture name="Ceiling Window0010" x="0" y="0" width="2323" height="676"/>
+	<SubTexture name="Ceiling Window0011" x="0" y="0" width="2323" height="676"/>
+	<SubTexture name="Ceiling Window0012" x="0" y="0" width="2323" height="676"/>
+	<SubTexture name="Ceiling Window0013" x="0" y="0" width="2323" height="676"/>
+	<SubTexture name="Ceiling Window0014" x="0" y="0" width="2323" height="676"/>
+	<SubTexture name="Ceiling Window0015" x="0" y="0" width="2323" height="676"/>
+	<SubTexture name="Ceiling Window0016" x="0" y="0" width="2323" height="676"/>
+	<SubTexture name="Ceiling Window0017" x="0" y="0" width="2323" height="676"/>
+	<SubTexture name="Ceiling Window0018" x="0" y="0" width="2323" height="676"/>
+	<SubTexture name="Ceiling Window0019" x="0" y="0" width="2323" height="676"/>
+	<SubTexture name="Ceiling Window0020" x="0" y="0" width="2323" height="676"/>
+	<SubTexture name="Ceiling Window0021" x="0" y="0" width="2323" height="676"/>
+	<SubTexture name="Ceiling Window0022" x="0" y="0" width="2323" height="676"/>
+	<SubTexture name="Ceiling Window0023" x="0" y="0" width="2323" height="676"/>
+	<SubTexture name="Ceiling Window0024" x="0" y="0" width="2323" height="676"/>
+	<SubTexture name="Ceiling Window0025" x="0" y="0" width="2323" height="676"/>
+	<SubTexture name="Ceiling Window0026" x="0" y="0" width="2323" height="676"/>
+	<SubTexture name="Ceiling Window0027" x="0" y="0" width="2323" height="676"/>
+	<SubTexture name="Ceiling Window0028" x="0" y="0" width="2323" height="676"/>
+	<SubTexture name="Ceiling Window0029" x="2323" y="0" width="2323" height="676"/>
+	<SubTexture name="Ceiling Window0030" x="2323" y="0" width="2323" height="676"/>
+	<SubTexture name="Ceiling Window0031" x="0" y="0" width="2323" height="676"/>
+	<SubTexture name="Ceiling Window0032" x="0" y="0" width="2323" height="676"/>
+	<SubTexture name="Ceiling Window0033" x="0" y="0" width="2323" height="676"/>
+	<SubTexture name="Ceiling Window0034" x="0" y="0" width="2323" height="676"/>
+	<SubTexture name="Ceiling Window0035" x="0" y="0" width="2323" height="676"/>
+	<SubTexture name="Ceiling Window0036" x="0" y="0" width="2323" height="676"/>
+	<SubTexture name="Ceiling Window0037" x="0" y="0" width="2323" height="676"/>
+	<SubTexture name="Ceiling Window0038" x="0" y="0" width="2323" height="676"/>
+	<SubTexture name="Ceiling Window0039" x="0" y="0" width="2323" height="676"/>
+	<SubTexture name="Christmas Tree0000" x="4646" y="0" width="617" height="1126"/>
+	<SubTexture name="Christmas Tree0001" x="4646" y="0" width="617" height="1126"/>
+	<SubTexture name="Christmas Tree0002" x="4646" y="0" width="617" height="1126"/>
+	<SubTexture name="LMAO0000" x="5263" y="0" width="177" height="59"/>
+	<SubTexture name="Mall Background0000" x="0" y="1126" width="3576" height="1618"/>
+	<SubTexture name="Mall Background0001" x="0" y="1126" width="3576" height="1618"/>
+	<SubTexture name="Mall Background0002" x="0" y="1126" width="3576" height="1618"/>
+	<SubTexture name="Mall Background0003" x="3576" y="1126" width="3576" height="1618"/>
+	<SubTexture name="Mall Background0004" x="3576" y="1126" width="3576" height="1618"/>
+	<SubTexture name="Mall Background0005" x="0" y="1126" width="3576" height="1618"/>
+	<SubTexture name="Mall Background0006" x="0" y="1126" width="3576" height="1618"/>
+	<SubTexture name="Mall Background0007" x="0" y="1126" width="3576" height="1618"/>
+	<SubTexture name="Mall Background0008" x="0" y="1126" width="3576" height="1618"/>
+	<SubTexture name="Mall Background0009" x="0" y="1126" width="3576" height="1618"/>
+	<SubTexture name="Mall Background0010" x="0" y="1126" width="3576" height="1618"/>
+	<SubTexture name="Mall Background0011" x="0" y="1126" width="3576" height="1618"/>
+	<SubTexture name="Mall Background0012" x="0" y="1126" width="3576" height="1618"/>
+	<SubTexture name="Mall Background0013" x="0" y="1126" width="3576" height="1618"/>
+	<SubTexture name="Mall Background0014" x="0" y="1126" width="3576" height="1618"/>
+	<SubTexture name="Mall Background0015" x="0" y="1126" width="3576" height="1618"/>
+	<SubTexture name="Mall Background0016" x="0" y="1126" width="3576" height="1618"/>
+	<SubTexture name="Mall Background0017" x="0" y="1126" width="3576" height="1618"/>
+	<SubTexture name="Mall Background0018" x="0" y="1126" width="3576" height="1618"/>
+	<SubTexture name="Mall Background0019" x="0" y="1126" width="3576" height="1618"/>
+	<SubTexture name="Mall Background0020" x="0" y="1126" width="3576" height="1618"/>
+	<SubTexture name="Mall Background0021" x="0" y="1126" width="3576" height="1618"/>
+	<SubTexture name="Mall Background0022" x="0" y="1126" width="3576" height="1618"/>
+	<SubTexture name="Mall Background0023" x="0" y="1126" width="3576" height="1618"/>
+	<SubTexture name="Mall Background0024" x="0" y="1126" width="3576" height="1618"/>
+	<SubTexture name="Mall Background0025" x="0" y="1126" width="3576" height="1618"/>
+	<SubTexture name="Mall Background0026" x="0" y="1126" width="3576" height="1618"/>
+	<SubTexture name="Mall Background0027" x="0" y="1126" width="3576" height="1618"/>
+	<SubTexture name="Mall Background0028" x="0" y="1126" width="3576" height="1618"/>
+	<SubTexture name="Mall Background0029" x="3576" y="1126" width="3576" height="1618"/>
+	<SubTexture name="Mall Background0030" x="3576" y="1126" width="3576" height="1618"/>
+	<SubTexture name="Mall Background0031" x="0" y="1126" width="3576" height="1618"/>
+	<SubTexture name="Mall Background0032" x="0" y="1126" width="3576" height="1618"/>
+	<SubTexture name="Mall Background0033" x="0" y="1126" width="3576" height="1618"/>
+	<SubTexture name="Mall Background0034" x="0" y="1126" width="3576" height="1618"/>
+	<SubTexture name="Mall Background0035" x="0" y="1126" width="3576" height="1618"/>
+	<SubTexture name="Mall Background0036" x="0" y="1126" width="3576" height="1618"/>
+	<SubTexture name="Mall Background0037" x="0" y="1126" width="3576" height="1618"/>
+	<SubTexture name="Mall Background0038" x="0" y="1126" width="3576" height="1618"/>
+	<SubTexture name="Mall Background0039" x="0" y="1126" width="3576" height="1618"/>
+	<SubTexture name="Snow 10000" x="7152" y="1126" width="324" height="250" frameX="-43" frameY="0" frameWidth="420" frameHeight="267"/>
+	<SubTexture name="Snow 10001" x="7152" y="1126" width="324" height="250" frameX="-43" frameY="0" frameWidth="420" frameHeight="267"/>
+	<SubTexture name="Snow 10002" x="7476" y="1126" width="357" height="220" frameX="-35" frameY="-20" frameWidth="420" frameHeight="267"/>
+	<SubTexture name="Snow 10003" x="7476" y="1126" width="357" height="220" frameX="-35" frameY="-20" frameWidth="420" frameHeight="267"/>
+	<SubTexture name="Snow 10004" x="0" y="2744" width="389" height="206" frameX="-31" frameY="-34" frameWidth="420" frameHeight="267"/>
+	<SubTexture name="Snow 10005" x="0" y="2744" width="389" height="206" frameX="-31" frameY="-34" frameWidth="420" frameHeight="267"/>
+	<SubTexture name="Snow 10006" x="389" y="2744" width="224" height="77" frameX="-30" frameY="-43" frameWidth="420" frameHeight="267"/>
+	<SubTexture name="Snow 10007" x="613" y="2744" width="224" height="112" frameX="-30" frameY="-8" frameWidth="420" frameHeight="267"/>
+	<SubTexture name="Snow 10008" x="837" y="2744" width="212" height="122" frameX="-33" frameY="-8" frameWidth="420" frameHeight="267"/>
+	<SubTexture name="Snow 10009" x="1049" y="2744" width="212" height="105" frameX="-33" frameY="-25" frameWidth="420" frameHeight="267"/>
+	<SubTexture name="Snow 10010" x="1261" y="2744" width="150" height="70" frameX="-89" frameY="-25" frameWidth="420" frameHeight="267"/>
+	<SubTexture name="Snow 10011" x="1411" y="2744" width="150" height="61" frameX="-89" frameY="-34" frameWidth="420" frameHeight="267"/>
+	<SubTexture name="Snow 10012" x="1561" y="2744" width="135" height="77" frameX="-95" frameY="-34" frameWidth="420" frameHeight="267"/>
+	<SubTexture name="Snow 10013" x="1696" y="2744" width="135" height="68" frameX="-95" frameY="-43" frameWidth="420" frameHeight="267"/>
+	<SubTexture name="Snow 10014" x="1831" y="2744" width="119" height="74" frameX="-100" frameY="-43" frameWidth="420" frameHeight="267"/>
+	<SubTexture name="Snow 10015" x="1950" y="2744" width="119" height="61" frameX="-100" frameY="-56" frameWidth="420" frameHeight="267"/>
+	<SubTexture name="Snow 10016" x="2069" y="2744" width="223" height="108" frameX="0" frameY="-17" frameWidth="420" frameHeight="267"/>
+	<SubTexture name="Snow 10017" x="2292" y="2744" width="223" height="108" frameX="0" frameY="-17" frameWidth="420" frameHeight="267"/>
+	<SubTexture name="Snow 10018" x="2515" y="2744" width="193" height="118" frameX="-28" frameY="-30" frameWidth="420" frameHeight="267"/>
+	<SubTexture name="Snow 10019" x="2708" y="2744" width="193" height="118" frameX="-28" frameY="-30" frameWidth="420" frameHeight="267"/>
+	<SubTexture name="Snow 10020" x="2901" y="2744" width="154" height="127" frameX="-55" frameY="-33" frameWidth="420" frameHeight="267"/>
+	<SubTexture name="Snow 10021" x="3055" y="2744" width="154" height="127" frameX="-55" frameY="-33" frameWidth="420" frameHeight="267"/>
+	<SubTexture name="Snow 10022" x="3209" y="2744" width="136" height="151" frameX="-79" frameY="-34" frameWidth="420" frameHeight="267"/>
+	<SubTexture name="Snow 10023" x="3345" y="2744" width="136" height="151" frameX="-79" frameY="-34" frameWidth="420" frameHeight="267"/>
+	<SubTexture name="Snow 10024" x="3481" y="2744" width="166" height="154" frameX="-65" frameY="-40" frameWidth="420" frameHeight="267"/>
+	<SubTexture name="Snow 10025" x="3647" y="2744" width="166" height="154" frameX="-65" frameY="-40" frameWidth="420" frameHeight="267"/>
+	<SubTexture name="Snow 10026" x="3813" y="2744" width="179" height="155" frameX="-57" frameY="-51" frameWidth="420" frameHeight="267"/>
+	<SubTexture name="Snow 10027" x="3992" y="2744" width="179" height="169" frameX="-57" frameY="-51" frameWidth="420" frameHeight="267"/>
+	<SubTexture name="Snow 10028" x="4171" y="2744" width="190" height="161" frameX="-50" frameY="-59" frameWidth="420" frameHeight="267"/>
+	<SubTexture name="Snow 10029" x="4361" y="2744" width="190" height="170" frameX="-50" frameY="-59" frameWidth="420" frameHeight="267"/>
+	<SubTexture name="Snow 10030" x="4551" y="2744" width="200" height="160" frameX="-45" frameY="-70" frameWidth="420" frameHeight="267"/>
+	<SubTexture name="Snow 10031" x="4751" y="2744" width="200" height="160" frameX="-45" frameY="-70" frameWidth="420" frameHeight="267"/>
+	<SubTexture name="Snow 10032" x="4951" y="2744" width="228" height="168" frameX="-42" frameY="-76" frameWidth="420" frameHeight="267"/>
+	<SubTexture name="Snow 10033" x="4951" y="2744" width="228" height="168" frameX="-42" frameY="-76" frameWidth="420" frameHeight="267"/>
+	<SubTexture name="Snow 10034" x="5179" y="2744" width="244" height="171" frameX="-45" frameY="-85" frameWidth="420" frameHeight="267"/>
+	<SubTexture name="Snow 10035" x="5179" y="2744" width="244" height="171" frameX="-45" frameY="-85" frameWidth="420" frameHeight="267"/>
+	<SubTexture name="Snow 10036" x="5423" y="2744" width="266" height="182" frameX="-51" frameY="-84" frameWidth="420" frameHeight="267"/>
+	<SubTexture name="Snow 10037" x="5423" y="2744" width="266" height="182" frameX="-51" frameY="-84" frameWidth="420" frameHeight="267"/>
+	<SubTexture name="Snow 10038" x="5689" y="2744" width="291" height="186" frameX="-55" frameY="-81" frameWidth="420" frameHeight="267"/>
+	<SubTexture name="Snow 10039" x="5689" y="2744" width="291" height="186" frameX="-55" frameY="-81" frameWidth="420" frameHeight="267"/>
+	<SubTexture name="Store Door0000" x="5980" y="2744" width="291" height="361"/>
+	<SubTexture name="Store Door 20000" x="6271" y="2744" width="291" height="363"/>
+	<SubTexture name="bg0000" x="0" y="3107" width="3577" height="1770"/>
+	<SubTexture name="bg color0000" x="3577" y="3107" width="3577" height="1541"/>
+	<SubTexture name="blood0000" x="7154" y="3107" width="432" height="837"/>
+	<SubTexture name="crap!0000" x="7586" y="3107" width="177" height="59"/>
+	<SubTexture name="escalator0000" x="0" y="4877" width="866" height="871"/>
+	<SubTexture name="fake snow0000" x="866" y="4877" width="2625" height="262"/>
+	<SubTexture name="foreground snow0000" x="3491" y="4877" width="1951" height="158"/>
+	<SubTexture name="gf glow0000" x="5442" y="4877" width="299" height="365"/>
+	<SubTexture name="junk n shit0000" x="5741" y="4877" width="177" height="62"/>
+	<SubTexture name="mall rail0000" x="0" y="5748" width="2650" height="586"/>
+	<SubTexture name="night lighting0000" x="2650" y="5748" width="2640" height="375"/>
+	<SubTexture name="night sky blur0000" x="5290" y="5748" width="1842" height="302"/>
+	<SubTexture name="purp shade0000" x="0" y="6334" width="2884" height="547"/>
+	<SubTexture name="red0000" x="2884" y="6334" width="2641" height="1328"/>
+	<SubTexture name="red20000" x="5525" y="6334" width="2324" height="671"/>
+	<SubTexture name="salads n sex0000" x="7849" y="6334" width="177" height="62"/>
+	<SubTexture name="snowfall 20000" x="0" y="7662" width="415" height="188" frameX="-113" frameY="0" frameWidth="528" frameHeight="265"/>
+	<SubTexture name="snowfall 20001" x="0" y="7662" width="415" height="188" frameX="-113" frameY="0" frameWidth="528" frameHeight="265"/>
+	<SubTexture name="snowfall 20002" x="415" y="7662" width="407" height="187" frameX="-102" frameY="-9" frameWidth="528" frameHeight="265"/>
+	<SubTexture name="snowfall 20003" x="415" y="7662" width="407" height="187" frameX="-102" frameY="-9" frameWidth="528" frameHeight="265"/>
+	<SubTexture name="snowfall 20004" x="822" y="7662" width="398" height="181" frameX="-91" frameY="-21" frameWidth="528" frameHeight="265"/>
+	<SubTexture name="snowfall 20005" x="822" y="7662" width="398" height="181" frameX="-91" frameY="-21" frameWidth="528" frameHeight="265"/>
+	<SubTexture name="snowfall 20006" x="1220" y="7662" width="396" height="182" frameX="-75" frameY="-28" frameWidth="528" frameHeight="265"/>
+	<SubTexture name="snowfall 20007" x="1220" y="7662" width="396" height="182" frameX="-75" frameY="-28" frameWidth="528" frameHeight="265"/>
+	<SubTexture name="snowfall 20008" x="1616" y="7662" width="380" height="188" frameX="-68" frameY="-32" frameWidth="528" frameHeight="265"/>
+	<SubTexture name="snowfall 20009" x="1616" y="7662" width="380" height="188" frameX="-68" frameY="-32" frameWidth="528" frameHeight="265"/>
+	<SubTexture name="snowfall 20010" x="1996" y="7662" width="377" height="160" frameX="-55" frameY="-40" frameWidth="528" frameHeight="265"/>
+	<SubTexture name="snowfall 20011" x="1996" y="7662" width="377" height="160" frameX="-55" frameY="-40" frameWidth="528" frameHeight="265"/>
+	<SubTexture name="snowfall 20012" x="2373" y="7662" width="390" height="185" frameX="-26" frameY="-51" frameWidth="528" frameHeight="265"/>
+	<SubTexture name="snowfall 20013" x="2373" y="7662" width="390" height="185" frameX="-26" frameY="-51" frameWidth="528" frameHeight="265"/>
+	<SubTexture name="snowfall 20014" x="2763" y="7662" width="528" height="265"/>
+	<SubTexture name="snowfall 20015" x="2763" y="7662" width="528" height="265"/>
+	<SubTexture name="snowfall 20016" x="3291" y="7662" width="438" height="104" frameX="-71" frameY="-9" frameWidth="528" frameHeight="265"/>
+	<SubTexture name="snowfall 20017" x="3291" y="7662" width="438" height="104" frameX="-71" frameY="-9" frameWidth="528" frameHeight="265"/>
+	<SubTexture name="snowfall 20018" x="3729" y="7662" width="409" height="102" frameX="-80" frameY="-21" frameWidth="528" frameHeight="265"/>
+	<SubTexture name="snowfall 20019" x="3729" y="7662" width="409" height="102" frameX="-80" frameY="-21" frameWidth="528" frameHeight="265"/>
+	<SubTexture name="snowfall 20020" x="4138" y="7662" width="396" height="105" frameX="-75" frameY="-28" frameWidth="528" frameHeight="265"/>
+	<SubTexture name="snowfall 20021" x="4138" y="7662" width="396" height="105" frameX="-75" frameY="-28" frameWidth="528" frameHeight="265"/>
+	<SubTexture name="snowfall 20022" x="4534" y="7662" width="402" height="129" frameX="-68" frameY="-32" frameWidth="528" frameHeight="265"/>
+	<SubTexture name="snowfall 20023" x="4534" y="7662" width="402" height="129" frameX="-68" frameY="-32" frameWidth="528" frameHeight="265"/>
+	<SubTexture name="snowfall 20024" x="4936" y="7662" width="419" height="160" frameX="-55" frameY="-40" frameWidth="528" frameHeight="265"/>
+	<SubTexture name="snowfall 20025" x="4936" y="7662" width="419" height="160" frameX="-55" frameY="-40" frameWidth="528" frameHeight="265"/>
+	<SubTexture name="snowfall 20026" x="5355" y="7662" width="444" height="185" frameX="-26" frameY="-51" frameWidth="528" frameHeight="265"/>
+	<SubTexture name="snowfall 20027" x="5355" y="7662" width="444" height="185" frameX="-26" frameY="-51" frameWidth="528" frameHeight="265"/>
+	<SubTexture name="snowfall 20028" x="5799" y="7662" width="455" height="202" frameX="0" frameY="-63" frameWidth="528" frameHeight="265"/>
+	<SubTexture name="snowfall 20029" x="5799" y="7662" width="455" height="202" frameX="0" frameY="-63" frameWidth="528" frameHeight="265"/>
+	<SubTexture name="snowfall 20030" x="6254" y="7662" width="371" height="121" frameX="-71" frameY="-81" frameWidth="528" frameHeight="265"/>
+	<SubTexture name="snowfall 20031" x="6254" y="7662" width="371" height="121" frameX="-71" frameY="-81" frameWidth="528" frameHeight="265"/>
+	<SubTexture name="snowfall 20032" x="6625" y="7662" width="359" height="117" frameX="-80" frameY="-93" frameWidth="528" frameHeight="265"/>
+	<SubTexture name="snowfall 20033" x="6625" y="7662" width="359" height="117" frameX="-80" frameY="-93" frameWidth="528" frameHeight="265"/>
+	<SubTexture name="snowfall 20034" x="6984" y="7662" width="369" height="112" frameX="-88" frameY="-108" frameWidth="528" frameHeight="265"/>
+	<SubTexture name="snowfall 20035" x="6984" y="7662" width="369" height="112" frameX="-88" frameY="-108" frameWidth="528" frameHeight="265"/>
+	<SubTexture name="snowfall 20036" x="7353" y="7662" width="371" height="36" frameX="-99" frameY="-118" frameWidth="528" frameHeight="265"/>
+	<SubTexture name="snowfall 20037" x="7353" y="7662" width="371" height="36" frameX="-99" frameY="-118" frameWidth="528" frameHeight="265"/>
+	<SubTexture name="snowfall 20038" x="7724" y="7662" width="244" height="20" frameX="-230" frameY="-153" frameWidth="528" frameHeight="265"/>
+	<SubTexture name="snowfall 20039" x="7724" y="7662" width="244" height="20" frameX="-230" frameY="-153" frameWidth="528" frameHeight="265"/>
+	<SubTexture name="store 1 glow0000" x="0" y="7927" width="256" height="234"/>
+	<SubTexture name="store 2 glow0000" x="256" y="7927" width="256" height="234"/>
+	<SubTexture name="store 3 glow0000" x="512" y="7927" width="256" height="236"/>
+	<SubTexture name="store 4 glow0000" x="768" y="7927" width="256" height="236"/>
+</TextureAtlas>
